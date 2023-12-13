@@ -22,13 +22,13 @@
 
 ### [DEMO] ACCOUNTS - STEP3 - Creating a Budget (6:46)
 
-### [DOITYOURSELF] Creating the Production Account (4:59)
+### [DO_IT_YOURSELF] Creating the Production Account (4:59)
 
 ### Identity and Access Management (IAM) Basics (13:01)
 
-### [DEMO] ACCOUNTS - STEP4 - Adding IAMADMIN to GENERAL Account (12:36)
+### [DEMO] ACCOUNTS - STEP4 - Adding IAM_ADMIN to GENERAL Account (12:36)
 
-### [DEMO] ACCOUNTS - STEP4 - Adding IAMADMIN to PRODUCTION Account (10:17)
+### [DEMO] ACCOUNTS - STEP4 - Adding IAM_ADMIN to PRODUCTION Account (10:17)
 
 ### IAM Access Keys (7:10)
 
@@ -76,7 +76,7 @@
 
 ### Section Quiz - Fundamentals
 
-## IAM, ACCOUNTS AND AWS ORGANISATIONS
+## IAM, ACCOUNTS AND AWS ORGANIZATIONS
 
 ### [Associate] IAM Identity Policies (15:54)
 
@@ -118,9 +118,9 @@
 
 ### IAM Identity Center (successor to AWS SSO) (9:33)
 
-### [202205UPDATE] [DEMO] Adding Single Sign-on to the Animals4life ORG - PART1 (14:53)
+### [202205_UPDATE] [DEMO] Adding Single Sign-on to the Animals4life ORG - PART1 (14:53)
 
-### [202205UPDATE] [DEMO] Adding Single Sign-on to the Animals4life ORG - PART2 (12:23)
+### [202205_UPDATE] [DEMO] Adding Single Sign-on to the Animals4life ORG - PART2 (12:23)
 
 ### AWS Control Tower 101 (15:42)
 
@@ -144,7 +144,7 @@
 
 ### [Associate] Key Management Service (KMS) (18:38)
 
-### [All] [DEMO] KMS - Encrypting the battleplans with KMS (12:43)
+### [All] [DEMO] KMS - Encrypting the battle-plans with KMS (12:43)
 
 ### [All] S3 Object Encryption CSE/SSE (23:31)
 
@@ -158,7 +158,7 @@
 
 ### [Associate] S3 Lifecycle Configuration (8:13)
 
-### [202304UPDATE] [All] S3 Replication (13:59)
+### [202304__UPDATE] [All] S3 Replication (13:59)
 
 ### [All] [DEMO] Cross-Region Replication of an S3 Static Website (19:52)
 
@@ -206,17 +206,17 @@
 
 ### [All] Custom VPCs - PART1 - THEORY (10:10)
 
-### [All] [DEMO] Custom VPCs - PART2 - DEMO [UPDATED20231129] (5:40)
+### [All] [DEMO] Custom VPCs - PART2 - DEMO [UPDATED_20231129] (5:40)
 
 ### [Associate] VPC Subnets (10:42)
 
-### [All] [DEMO] Implement multi-tier VPC subnets [UPDATED20231129] (15:03)
+### [All] [DEMO] Implement multi-tier VPC subnets [UPDATED_20231129] (15:03)
 
 ### [Associate] VPC Routing, Internet Gateway & Bastion Hosts (17:35)
 
-### [Associate] [DEMO] Configuring A4L public subnets and Jumpbox - PART1 [UPDATED20231119] (13:45)
+### [Associate] [DEMO] Configuring A4L public subnets and Jump-box - PART1 [UPDATED_20231119] (13:45)
 
-### [Associate] [DEMO] Configuring A4L public subnets and Jumpbox - PART2 [UPDATED20231119] (11:35)
+### [Associate] [DEMO] Configuring A4L public subnets and Jump-box - PART2 [UPDATED_20231119] (11:35)
 
 ### [Associate] Stateful vs Stateless Firewalls (14:04)
 
@@ -306,7 +306,7 @@
 
 ### [Associate] CloudWatch Logs Architecture (7:16)
 
-### [Associate] Eventbridge // CloudWatch Events (6:54)
+### [Associate] EventBridge // CloudWatch Events (6:54)
 
 ### AWS Config (6:14)
 
@@ -360,9 +360,9 @@
 
 ### [Associate] System and Application Logging on EC2 (6:15)
 
-### [Associate] [DEMO] Logging and Metrics with CloudWatch Agent-PART1 (11:51)
+### [Associate] [DEMO] Logging and Metrics with CloudWatch Agent - PART1 (11:51)
 
-### [Associate] [DEMO] Logging and Metrics with CloudWatch Agent-PART2 (8:08)
+### [Associate] [DEMO] Logging and Metrics with CloudWatch Agent - PART2 (8:08)
 
 ### [Associate] EC2 Placement Groups (14:29)
 
@@ -408,17 +408,17 @@
 
 ### [Associate] CloudFormation cfn-hup (4:13)
 
-### [Associate] [DEMO] wait conditions, cfnsignal, cfninit and cfnhup-PART1 (12:51)
+### [Associate] [DEMO] wait conditions, cfn-signal, cfn-init and cfn-hup - PART1 (12:51)
 
-### [Associate] [DEMO] wait conditions, cfnsignal, cfninit and cfnhup-PART2 (14:42)
+### [Associate] [DEMO] wait conditions, cfn-signal, cfn-init and cfn-hup - PART2 (14:42)
 
 ### [Associate] CloudFormation ChangeSets (11:03)
 
 ### [Associate] CloudFormation Custom Resources (11:03)
 
-### [Associate] [DEMO] CloudFormation Custom Resources-PART1 (9:12)
+### [Associate] [DEMO] CloudFormation Custom Resources - PART1 (9:12)
 
-### [Associate] [DEMO] CloudFormation Custom Resources-PART2 (13:27)
+### [Associate] [DEMO] CloudFormation Custom Resources - PART2 (13:27)
 
 ### Section Quiz - CloudFormation
 
@@ -436,9 +436,9 @@
 
 ### [Associate] Failover Routing (1:53)
 
-### [202207UPDATE] [All] [DEMO] Using R53 and Failover Routing-PART1 (16:41)
+### [202207_UPDATE] [All] [DEMO] Using R53 and Failover Routing - PART1 (16:41)
 
-### [202207UPDATE] [All] [DEMO] Using R53 and Failover Routing-PART2 (6:28)
+### [202207_UPDATE] [All] [DEMO] Using R53 and Failover Routing - PART2 (6:28)
 
 ### [Associate] Multi Value Routing (2:32)
 
@@ -446,17 +446,17 @@
 
 ### [Associate] Latency Routing (2:44)
 
-### [Associate] Geolocation Routing (5:02)
+### [Associate] Geo-location Routing (5:02)
 
-### [Associate] Geoproximity Routing (4:50)
+### [Associate] Geo-proximity Routing (4:50)
 
 ### [Associate] R53 Interoperability (11:50)
 
-### Implementing DNSSEC using Route53 (17:43)
+### Implementing DNS-SEC using Route53 (17:43)
 
 ### [All] CloudFront - Architecture (14:56)
 
-### [All] CloudFront (CF) - Behaviours (9:21)
+### [All] CloudFront (CF) - Behaviors (9:21)
 
 ### [All] CloudFront - TTL and Invalidations (13:48)
 
@@ -464,9 +464,9 @@
 
 ### [All] CloudFront (CF) - Origin Types & Origin Architecture (10:20)
 
-### [All] [DEMO] CloudFront (CF) - Adding a CDN to a static Website-PART1 (16:23)
+### [All] [DEMO] CloudFront (CF) - Adding a CDN to a static Website - PART1 (16:23)
 
-### [All] [DEMO] CloudFront (CF) - Adding a CDN to a static Website-PART2 (12:24)
+### [All] [DEMO] CloudFront (CF) - Adding a CDN to a static Website - PART2 (12:24)
 
 ### [All] [DEMO] CloudFront (CF) - Adding an Alternate CNAME and SSL (11:12)
 
@@ -480,11 +480,11 @@
 
 ### [All] CloudFront - Field Level Encryption (9:00)
 
-### [All] CloudFront - lambda@edge (8:03)
+### [All] CloudFront - Lambda@Edge (8:03)
 
 ### Application Layer (L7) Firewall (7:44)
 
-### Web Application Firewall (WAF), WEBACLs, Rule Groups and Rules (19:18)
+### Web Application Firewall (WAF), WEB_ACLs, Rule Groups and Rules (19:18)
 
 ### AWS Shield (9:47)
 
@@ -498,7 +498,7 @@
 
 ### [Associate] Databases on EC2 (13:08)
 
-### [Associate][DEMO] Splitting Wordpress Monolith => APP & DB (18:01)
+### [Associate] [DEMO] Splitting Wordpress Monolith => APP & DB (18:01)
 
 ### [Associate] Relational Database Service (RDS) Architecture (11:39)
 
@@ -522,7 +522,7 @@
 
 ### [Associate] Aurora Serverless (9:52)
 
-### [DEMO] Migrating to Aurora Serverless [DONT DO THIS DEMO, IT WON'T WORK, UPDATING to SERVERLESSv2] (14:47)
+### [DEMO] Migrating to Aurora Serverless [DON'T DO THIS DEMO, IT WON'T WORK, UPDATING to SERVERLESS v2] (14:47)
 
 ### [Associate] Aurora Global Database (5:08)
 
@@ -532,17 +532,17 @@
 
 ### [Associate] Database Migration Service (DMS) (11:03)
 
-### [202207UPDATE] [AdvancedDEMO] Database Migration Service-STAGE1 (6:08)
+### [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE1 (6:08)
 
-### [202207UPDATE] [AdvancedDEMO] Database Migration Service-STAGE2 (6:43)
+### [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE2 (6:43)
 
-### [202207UPDATE] [AdvancedDEMO] Database Migration Service-STAGE3-PART1 (9:17)
+### [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE3 - PART1 (9:17)
 
-### [202207UPDATE] [AdvancedDEMO] Database Migration Service-STAGE3-PART2 (9:00)
+### [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE3 - PART2 (9:00)
 
-### [202207UPDATE] [AdvancedDEMO] Database Migration Service-STAGE4 (16:48)
+### [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE4 (16:48)
 
-### [202207UPDATE] [AdvancedDEMO] Database Migration Service-STAGE5 (4:27)
+### [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE5 (4:27)
 
 ### [Associate] Secrets Manager (7:44)
 
@@ -552,11 +552,11 @@
 
 ### [Associate] EFS Architecture (9:05)
 
-### [Associate][DEMO] Implementing EFS - PART1 (8:51)
+### [Associate] [DEMO] Implementing EFS - PART1 (8:51)
 
 ### [Associate] [DEMO] Implementing EFS - PART2 (11:32)
 
-### [Associate] [ DEMO] Using EFS with Wordpress (16:00)
+### [Associate] [DEMO] Using EFS with Wordpress (16:00)
 
 ### FSx for Windows File Server (11:32)
 
@@ -588,21 +588,21 @@
 
 ### [Associate] ASG HealthCheck Comparison - EC2 vs ELB (3:38)
 
-### [AdvancedDemo] Architecture Evolution - STAGE1 - PART1 (14:24)
+### [Advanced_Demo] Architecture Evolution - STAGE1 - PART1 (14:24)
 
-### [AdvancedDemo] Architecture Evolution - STAGE1 - PART2 (10:43)
+### [Advanced_Demo] Architecture Evolution - STAGE1 - PART2 (10:43)
 
-### [AdvancedDemo] Architecture Evolution - STAGE2 (12:58)
+### [Advanced_Demo] Architecture Evolution - STAGE2 (12:58)
 
-### [AdvancedDemo] Architecture Evolution - STAGE3 (19:30)
+### [Advanced_Demo] Architecture Evolution - STAGE3 (19:30)
 
-### [AdvancedDemo] Architecture Evolution - STAGE4 (18:04)
+### [Advanced_Demo] Architecture Evolution - STAGE4 (18:04)
 
-### [AdvancedDemo] Architecture Evolution - STAGE 5 - PART1 (11:31)
+### [Advanced_Demo] Architecture Evolution - STAGE 5 - PART1 (11:31)
 
-### [AdvancedDemo] Architecture Evolution - STAGE 5 - PART2 (14:56)
+### [Advanced_Demo] Architecture Evolution - STAGE 5 - PART2 (14:56)
 
-### [AdvancedDemo] Architecture Evolution - STAGE6 (5:48)
+### [Advanced_Demo] Architecture Evolution - STAGE6 (5:48)
 
 ### Section Quiz - HA & Scaling
 
@@ -642,31 +642,31 @@
 
 ### Advanced VPC Routing - PART2 (11:51)
 
-### Accelerated Site2Site VPN (9:53)
+### Accelerated Site-2-Site VPN (9:53)
 
-### [AdvancedDEMO] Advanced Site-to-Site VPN - STAGE1 (10:03)
+### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE1 (10:03)
 
-### [AdvancedDEMO] Advanced Site-to-Site VPN - STAGE2 - PART1 (13:23)
+### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE2 - PART1 (13:23)
 
-### [AdvancedDEMO] Advanced Site-to-Site VPN - STAGE2 - PART2 (11:36)
+### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE2 - PART2 (11:36)
 
-### [AdvancedDEMO] Advanced Site-to-Site VPN - STAGE3 - PART1 (13:12)
+### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE3 - PART1 (13:12)
 
-### [AdvancedDEMO] Advanced Site-to-Site VPN - STAGE3 - PART2 (8:26)
+### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE3 - PART2 (8:26)
 
-### [AdvancedDEMO] Advanced Site-to-Site VPN - STAGE4 (21:08)
+### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE4 (21:08)
 
-### [AdvancedDEMO] Advanced Site-to-Site VPN - STAGE5 (3:20)
+### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE5 (3:20)
 
 ### Advanced VPC DNS & DNS Endpoints (15:01)
 
-### [MINIPROJECT] Hybrid R53 and On-premises DNS-PART1 (8:27)
+### [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART1 (8:27)
 
-### [MINIPROJECT] Hybrid R53 and On-premises DNS-PART2 (6:53)
+### [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART2 (6:53)
 
-### [MINIPROJECT] Hybrid R53 and On-premises DNS-PART3 (15:47)
+### [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART3 (15:47)
 
-### [MINIPROJECT] Hybrid R53 and On-premises DNS-PART4 (9:15)
+### [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART4 (9:15)
 
 ### Section Quiz - Advanced Networking
 
@@ -696,7 +696,7 @@
 
 ### [All] AWS Lambda - PART3 (17:03)
 
-### [Associate] Eventbridge (6:54)
+### [Associate] EventBridge (6:54)
 
 ### [Associate] [DEMO] Automated EC2 Control using Lambda and Events - PART1 (13:44)
 
@@ -714,17 +714,17 @@
 
 ### [All] API Gateway 101 (16:27)
 
-### [MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART1 (5:01)
+### [MINI_PROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART1 (5:01)
 
-### [MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART2 (8:24)
+### [MINI_PROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART2 (8:24)
 
-### [MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART3 (12:26)
+### [MINI_PROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART3 (12:26)
 
-### [MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART4 (12:45)
+### [MINI_PROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART4 (12:45)
 
-### [MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART5 (13:31)
+### [MINI_PROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART5 (13:31)
 
-### [MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART6 (2:38)
+### [MINI_PROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART6 (2:38)
 
 ### [Associate] Kinesis Data Streams (7:52)
 
@@ -734,7 +734,7 @@
 
 ### Section Quiz - Application Services
 
-## NOSQL Databases & DynamoDB
+## NoSQL Databases & DynamoDB
 
 ### [Associate] DynamoDB Architecture Basics (10:49)
 
@@ -768,7 +768,7 @@
 
 ### [Associate] Elastic Beanstalk (EB) - Environments and RDS (4:34)
 
-### [Associate] Elastic Beanstalk (EB) - Advanced Customisation via .ebextensions (4:52)
+### [Associate] Elastic Beanstalk (EB) - Advanced Customization via .ebextensions (4:52)
 
 ### [Associate] Elastic Beanstalk (EB) - HTTPS (1:51)
 
