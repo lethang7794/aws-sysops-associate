@@ -108,19 +108,19 @@
 
 ### [All] [DEMO] Implementing an Organizational Trail (18:23)
 
-### AWS Service Catalog (7:07)
+### 🆕 AWS Service Catalog (7:07)
 
-### AWS Cost Explorer (3:23)
+### 🆕 AWS Cost Explorer (3:23)
 
-### AWS Cost Allocation Tags (4:43)
+### 🆕 AWS Cost Allocation Tags (4:43)
 
-### SAML2.0 Identity Federation (12:19)
+### 🆕 SAML2.0 Identity Federation (12:19)
 
-### IAM Identity Center (successor to AWS SSO) (9:33)
+### 🆕 IAM Identity Center (successor to AWS SSO) (9:33)
 
-### [202205_UPDATE] [DEMO] Adding Single Sign-on to the Animals4life ORG - PART1 (14:53)
+### 🆕 [202205_UPDATE] [DEMO] Adding Single Sign-on to the Animals4life ORG - PART1 (14:53)
 
-### [202205_UPDATE] [DEMO] Adding Single Sign-on to the Animals4life ORG - PART2 (12:23)
+### 🆕 [202205_UPDATE] [DEMO] Adding Single Sign-on to the Animals4life ORG - PART2 (12:23)
 
 ### AWS Control Tower 101 (15:42)
 
@@ -170,9 +170,9 @@
 
 ### [Associate] Cross-origin Resource Sharing (CORS) (9:26)
 
-### S3 Access Points (5:52)
+### 🆕 S3 Access Points (5:52)
 
-### S3 Inventory (13:54)
+### 🆕 S3 Inventory (13:54)
 
 ### [Associate] S3 Events (4:32)
 
@@ -184,19 +184,19 @@
 
 ## Security
 
-### Policy Interpretation Deep Dive - Example 1 (10:23)
+### 🆕 Policy Interpretation Deep Dive - Example 1 (10:23)
 
-### Policy Interpretation Deep Dive - Example 2 (9:11)
+### 🆕 Policy Interpretation Deep Dive - Example 2 (9:11)
 
-### Policy Interpretation Deep Dive - Example 3 (10:59)
+### 🆕 Policy Interpretation Deep Dive - Example 3 (10:59)
 
-### AWS Permissions Evaluation (10:25)
+### 🆕 AWS Permissions Evaluation (10:25)
 
-### Amazon Inspector (6:28)
+### 🆕 Amazon Inspector (6:28)
 
-### Amazon GuardDuty (4:14)
+### 🆕 Amazon GuardDuty (4:14)
 
-### Trusted Advisor (8:54)
+### 🆕 Trusted Advisor (8:54)
 
 ## VIRTUAL PRIVATE CLOUD (VPC) BASICS
 
@@ -300,19 +300,19 @@
 
 ## Monitoring, Logging & Auditing
 
-### [Associate] CloudWatch Architecture - PART1 (9:44)
+### 🆕 [Associate] CloudWatch Architecture - PART1 (9:44)
 
-### [Associate] CloudWatch Architecture - PART2 (9:19)
+### 🆕 [Associate] CloudWatch Architecture - PART2 (9:19)
 
-### [Associate] CloudWatch Logs Architecture (7:16)
+### 🆕 [Associate] CloudWatch Logs Architecture (7:16)
 
-### [Associate] EventBridge // CloudWatch Events (6:54)
+### 🆕 [Associate] EventBridge // CloudWatch Events (6:54)
 
-### AWS Config (6:14)
+### 🆕 AWS Config (6:14)
 
 ### [Associate] VPC Flow Logs (9:56)
 
-### [DEMO] VPC Flow Logs (25:03)
+### 🆕 [DEMO] VPC Flow Logs (25:03)
 
 ### [Associate] Athena (8:19)
 
@@ -320,7 +320,7 @@
 
 ### [Associate] [DEMO] Athena - Part 2 (11:37)
 
-### AWS X-Ray (6:20)
+### 🆕 AWS X-Ray (6:20)
 
 ### Section Quiz - Monitoring, Logging and Auditing
 
@@ -350,7 +350,7 @@
 
 ### [Associate] [DEMO] Bootstrapping Wordpress Installation - PART2 (6:45)
 
-### [Associate] EC2 Instance Roles & Profile (4:43)
+### 🆕 [Associate] EC2 Instance Roles & Profile (4:43)
 
 ### [Associate] [DEMO] Using EC2 Instance Roles (13:31)
 
@@ -452,7 +452,7 @@
 
 ### [Associate] R53 Interoperability (11:50)
 
-### Implementing DNS-SEC using Route53 (17:43)
+### 🆕 Implementing DNS-SEC using Route53 (17:43)
 
 ### [All] CloudFront - Architecture (14:56)
 
@@ -470,23 +470,23 @@
 
 ### [All] [DEMO] CloudFront (CF) - Adding an Alternate CNAME and SSL (11:12)
 
-### [All] CloudFront - Security - OAI & Custom Origins (8:50)
+### 🆕 [All] CloudFront - Security - OAI & Custom Origins (8:50)
 
 ### [All] [DEMO] CloudFront (CF) - Using Origin Access Control (OAC) (new version of OAI) (11:21)
 
-### [All] CloudFront - Security - Private Distributions (9:14)
+### 🆕 [All] CloudFront - Security - Private Distributions (9:14)
 
-### [All] CloudFront - Geo-Restriction (9:40)
+### 🆕 [All] CloudFront - Geo-Restriction (9:40)
 
-### [All] CloudFront - Field Level Encryption (9:00)
+### 🆕 [All] CloudFront - Field Level Encryption (9:00)
 
 ### [All] CloudFront - Lambda@Edge (8:03)
 
-### Application Layer (L7) Firewall (7:44)
+### 🆕 Application Layer (L7) Firewall (7:44)
 
-### Web Application Firewall (WAF), WEB_ACLs, Rule Groups and Rules (19:18)
+### 🆕 Web Application Firewall (WAF), WEB_ACLs, Rule Groups and Rules (19:18)
 
-### AWS Shield (9:47)
+### 🆕 AWS Shield (9:47)
 
 ### Section Quiz - Discovery and CDN
 
@@ -524,25 +524,25 @@
 
 ### [DEMO] Migrating to Aurora Serverless [DON'T DO THIS DEMO, IT WON'T WORK, UPDATING to SERVERLESS v2] (14:47)
 
-### [Associate] Aurora Global Database (5:08)
+### 🆕 [Associate] Aurora Global Database (5:08)
 
-### [Associate] Multi-master writes (7:51)
+### 🆕 [Associate] Multi-master writes (7:51)
 
-### [Associate] Relational Database Service (RDS) - RDS Proxy (9:47)
+### 🆕 [Associate] Relational Database Service (RDS) - RDS Proxy (9:47)
 
-### [Associate] Database Migration Service (DMS) (11:03)
+### 🆕 [Associate] Database Migration Service (DMS) (11:03)
 
-### [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE1 (6:08)
+### 🆕 [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE1 (6:08)
 
-### [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE2 (6:43)
+### 🆕 [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE2 (6:43)
 
-### [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE3 - PART1 (9:17)
+### 🆕 [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE3 - PART1 (9:17)
 
-### [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE3 - PART2 (9:00)
+### 🆕 [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE3 - PART2 (9:00)
 
-### [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE4 (16:48)
+### 🆕 [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE4 (16:48)
 
-### [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE5 (4:27)
+### 🆕 [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE5 (4:27)
 
 ### [Associate] Secrets Manager (7:44)
 
@@ -562,7 +562,7 @@
 
 ### FSx for Lustre (13:57)
 
-### [Associate] AWS Transfer Family (10:24)
+### 🆕 [Associate] AWS Transfer Family (10:24)
 
 ### Section Quiz - Advanced Storage
 
@@ -582,7 +582,7 @@
 
 ### [Associate] Auto-Scaling Groups (16:01)
 
-### [Associate] ASG Scaling Policies (10:23)
+### 🆕 [Associate] ASG Scaling Policies (10:23)
 
 ### [Associate] ASG Lifecycle Hooks (4:41)
 
@@ -608,79 +608,79 @@
 
 ## Advanced Networking
 
-### [Associate] Egress-Only Internet gateway (6:46)
+### 🆕 [Associate] Egress-Only Internet gateway (6:46)
 
-### [Associate] VPC Endpoints (Gateway) (11:14)
+### 🆕 [Associate] VPC Endpoints (Gateway) (11:14)
 
-### [Associate] VPC Endpoints (Interface) (11:26)
+### 🆕 [Associate] VPC Endpoints (Interface) (11:26)
 
-### [All] [DEMO] VPC Endpoints - Interface - PART1 (11:59)
+### 🆕 [All] [DEMO] VPC Endpoints - Interface - PART1 (11:59)
 
-### [All] [DEMO] VPC Endpoints - Gateway - PART2 (9:59)
+### 🆕 [All] [DEMO] VPC Endpoints - Gateway - PART2 (9:59)
 
-### [All] [DEMO] Egress-Only Internet Gateway - PART3 (7:57)
+### 🆕 [All] [DEMO] Egress-Only Internet Gateway - PART3 (7:57)
 
-### [Associate] VPC Peering (9:04)
+### 🆕 [Associate] VPC Peering (9:04)
 
-### [All] [DEMO] VPC Peering (22:38)
+### 🆕 [All] [DEMO] VPC Peering (22:38)
 
-### Border Gateway Protocol 101 (17:29)
+### 🆕 Border Gateway Protocol 101 (17:29)
 
-### IP Sec VPN Fundamentals (14:54)
+### 🆕 IP Sec VPN Fundamentals (14:54)
 
-### AWS Site-to-Site VPN (18:05)
+### 🆕 AWS Site-to-Site VPN (18:05)
 
-### AWS Global Accelerator (10:29)
+### 🆕 AWS Global Accelerator (10:29)
 
-### AWS Direct Connect (DX) - Concepts (9:37)
+### 🆕 AWS Direct Connect (DX) - Concepts (9:37)
 
-### AWS Direct Connect (DX) - Resilience (13:50)
+### 🆕 AWS Direct Connect (DX) - Resilience (13:50)
 
-### Transit Gateway (10:26)
+### 🆕 Transit Gateway (10:26)
 
-### Advanced VPC Routing - PART1 (11:00)
+### 🆕 Advanced VPC Routing - PART1 (11:00)
 
-### Advanced VPC Routing - PART2 (11:51)
+### 🆕 Advanced VPC Routing - PART2 (11:51)
 
-### Accelerated Site-2-Site VPN (9:53)
+### 🆕 Accelerated Site-2-Site VPN (9:53)
 
-### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE1 (10:03)
+### 🆕 [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE1 (10:03)
 
-### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE2 - PART1 (13:23)
+### 🆕 [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE2 - PART1 (13:23)
 
-### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE2 - PART2 (11:36)
+### 🆕 [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE2 - PART2 (11:36)
 
-### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE3 - PART1 (13:12)
+### 🆕 [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE3 - PART1 (13:12)
 
-### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE3 - PART2 (8:26)
+### 🆕 [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE3 - PART2 (8:26)
 
-### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE4 (21:08)
+### 🆕 [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE4 (21:08)
 
-### [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE5 (3:20)
+### 🆕 [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE5 (3:20)
 
-### Advanced VPC DNS & DNS Endpoints (15:01)
+### 🆕 Advanced VPC DNS & DNS Endpoints (15:01)
 
-### [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART1 (8:27)
+### 🆕 [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART1 (8:27)
 
-### [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART2 (6:53)
+### 🆕 [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART2 (6:53)
 
-### [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART3 (15:47)
+### 🆕 [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART3 (15:47)
 
-### [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART4 (9:15)
+### 🆕 [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART4 (9:15)
 
 ### Section Quiz - Advanced Networking
 
-## Systems Manager
+## 🆕 Systems Manager
 
-### SSM Architecture and Agent Activation (7:25)
+### 🆕 SSM Architecture and Agent Activation (7:25)
 
-### SSM Run Command (4:47)
+### 🆕 SSM Run Command (4:47)
 
-### SSM Documents (7:31)
+### 🆕 SSM Documents (7:31)
 
-### SSM Inventory & SSM Patching (11:57)
+### 🆕 SSM Inventory & SSM Patching (11:57)
 
-### [DEMO] Systems Manager (23:52)
+### 🆕 [DEMO] Systems Manager (23:52)
 
 ### Section Quiz - Systems Manager
 
@@ -702,9 +702,9 @@
 
 ### [Associate] [DEMO] Automated EC2 Control using Lambda and Events - PART2 (18:49)
 
-### [DEMO] Accessing Private VPC Resources using Lambda w/ TheCatAPI!!!! - PART1 (7:53)
+### 🆕 [DEMO] Accessing Private VPC Resources using Lambda w/ TheCatAPI!!!! - PART1 (7:53)
 
-### [DEMO] Accessing Private VPC Resources using Lambda w/ TheCatAPI!!!! - PART2 (16:19)
+### 🆕 [DEMO] Accessing Private VPC Resources using Lambda w/ TheCatAPI!!!! - PART2 (16:19)
 
 ### [Associate] Simple Notification Service (7:49)
 
@@ -754,29 +754,29 @@
 
 ### Section Quiz - NoSQL
 
-## Elastic Beanstalk In-Depth (ops)
+## 🆕 Elastic Beanstalk In-Depth (ops)
 
-### [Associate] Elastic Beanstalk (EB) - Architecture (18:12)
+### 🆕 [Associate] Elastic Beanstalk (EB) - Architecture (18:12)
 
-### [Associate] [DEMO] Elastic Beanstalk (EB) - Application & Environment - PART1 (11:50)
+### 🆕 [Associate] [DEMO] Elastic Beanstalk (EB) - Application & Environment - PART1 (11:50)
 
-### [Associate] [DEMO] Elastic Beanstalk (EB) - Add additional environment and config options - PART2 (10:53)
+### 🆕 [Associate] [DEMO] Elastic Beanstalk (EB) - Add additional environment and config options - PART2 (10:53)
 
-### [Associate] Elastic Beanstalk (EB) - Deployment Policies (11:40)
+### 🆕 [Associate] Elastic Beanstalk (EB) - Deployment Policies (11:40)
 
-### [Associate] [DEMO] Elastic Beanstalk (EB) - Deployment (8:30)
+### 🆕 [Associate] [DEMO] Elastic Beanstalk (EB) - Deployment (8:30)
 
-### [Associate] Elastic Beanstalk (EB) - Environments and RDS (4:34)
+### 🆕 [Associate] Elastic Beanstalk (EB) - Environments and RDS (4:34)
 
-### [Associate] Elastic Beanstalk (EB) - Advanced Customization via .ebextensions (4:52)
+### 🆕 [Associate] Elastic Beanstalk (EB) - Advanced Customization via .ebextensions (4:52)
 
-### [Associate] Elastic Beanstalk (EB) - HTTPS (1:51)
+### 🆕 [Associate] Elastic Beanstalk (EB) - HTTPS (1:51)
 
-### [Associate] Elastic Beanstalk (EB) - Cloning (4:44)
+### 🆕 [Associate] Elastic Beanstalk (EB) - Cloning (4:44)
 
-### [Associate] Elastic Beanstalk (EB) - Docker (9:11)
+### 🆕 [Associate] Elastic Beanstalk (EB) - Docker (9:11)
 
-### [Associate] [DEMO] Elastic Beanstalk (EB) - Section Cleanup (1:40)
+### 🆕 [Associate] [DEMO] Elastic Beanstalk (EB) - Section Cleanup (1:40)
 
 ### Section Quiz - Elastic Beanstalk
 
