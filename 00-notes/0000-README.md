@@ -110,15 +110,48 @@
 
 ### 🆕 AWS Service Catalog (7:07)
 
+![Alt text](<images/Screenshot from 2023-12-14 10-06-05.png>)
+Service Catalog
+
+![Alt text](<images/Screenshot from 2023-12-14 10-08-30.png>)
+AWS Service Catalog
+
+![Alt text](<images/Screenshot from 2023-12-14 10-09-58.png>)
+
 ### 🆕 AWS Cost Explorer (3:23)
+
+![Alt text](<images/Screenshot from 2023-12-14 11-15-33.png>)
+
+![Alt text](<images/Screenshot from 2023-12-14 11-17-57.png>)
+
+![Alt text](<images/Screenshot from 2023-12-14 12-10-10.png>)
 
 ### 🆕 AWS Cost Allocation Tags (4:43)
 
+![Alt text](<images/Screenshot from 2023-12-14 13-38-56.png>)
+
+![Alt text](<images/Screenshot from 2023-12-14 13-39-55.png>)
+
 ### 🆕 SAML2.0 Identity Federation (12:19)
+
+![Alt text](<images/Screenshot from 2023-12-14 13-46-02.png>)
+SAML2.0 Identity Federation
+
+![Alt text](<images/Screenshot from 2023-12-14 13-50-08.png>)
+SAML2.0 Identity Federation - API
+
+![Alt text](<images/Screenshot from 2023-12-14 13-55-26.png>)
+SAML2.0 Identity Federation - Human (Web Console)
 
 ### 🆕 IAM Identity Center (successor to AWS SSO) (9:33)
 
+![Alt text](<images/Screenshot from 2023-12-14 14-00-53.png>)
+
+![Alt text](<images/Screenshot from 2023-12-14 14-04-11.png>)
+
 ### 🆕 [202205_UPDATE] [DEMO] Adding Single Sign-on to the Animals4life ORG - PART1 (14:53)
+
+![Alt text](<images/Screenshot from 2023-12-14 14-06-38.png>)
 
 ### 🆕 [202205_UPDATE] [DEMO] Adding Single Sign-on to the Animals4life ORG - PART2 (12:23)
 
@@ -173,6 +206,8 @@
 ### 🆕 S3 Access Points (5:52)
 
 ### 🆕 S3 Inventory (13:54)
+
+![Alt text](<images/Screenshot from 2023-12-14 16-20-56.png>)
 
 ### [Associate] S3 Events (4:32)
 
