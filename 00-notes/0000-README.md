@@ -233,6 +233,14 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ### 🆕 Trusted Advisor (8:54)
 
+![Alt text](<images/Screenshot from 2023-12-14 23-39-53.png>)
+
+![Alt text](<images/Screenshot from 2023-12-14 23-42-24.png>)
+
+![Alt text](<images/Screenshot from 2023-12-14 23-44-50.png>)
+
+![Alt text](<images/Screenshot from 2023-12-14 23-45-24.png>)
+
 ## VIRTUAL PRIVATE CLOUD (VPC) BASICS
 
 ### [Associate] VPC Sizing and Structure - PART1 (11:48)
@@ -344,6 +352,10 @@ SAML2.0 Identity Federation - Human (Web Console)
 ### 🆕 [Associate] EventBridge // CloudWatch Events (6:54)
 
 ### 🆕 AWS Config (6:14)
+
+![Alt text](<images/Screenshot from 2023-12-15 00-41-35.png>)
+
+![Alt text](<images/Screenshot from 2023-12-15 00-45-27.png>)
 
 ### [Associate] VPC Flow Logs (9:56)
 
