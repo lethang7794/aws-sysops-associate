@@ -203,7 +203,7 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ### [Associate] Cross-origin Resource Sharing (CORS) (9:26)
 
-### 🆕 S3 Access Points (5:52)
+### S3 Access Points (5:52)
 
 ### 🆕 S3 Inventory (13:54)
 
@@ -219,17 +219,17 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ## Security
 
-### 🆕 Policy Interpretation Deep Dive - Example 1 (10:23)
+### Policy Interpretation Deep Dive - Example 1 (10:23)
 
-### 🆕 Policy Interpretation Deep Dive - Example 2 (9:11)
+### Policy Interpretation Deep Dive - Example 2 (9:11)
 
-### 🆕 Policy Interpretation Deep Dive - Example 3 (10:59)
+### Policy Interpretation Deep Dive - Example 3 (10:59)
 
-### 🆕 AWS Permissions Evaluation (10:25)
+### AWS Permissions Evaluation (10:25)
 
-### 🆕 Amazon Inspector (6:28)
+### Amazon Inspector (6:28)
 
-### 🆕 Amazon GuardDuty (4:14)
+### Amazon GuardDuty (4:14)
 
 ### 🆕 Trusted Advisor (8:54)
 
@@ -343,13 +343,13 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ## Monitoring, Logging & Auditing
 
-### 🆕 [Associate] CloudWatch Architecture - PART1 (9:44)
+### [Associate] CloudWatch Architecture - PART1 (9:44)
 
-### 🆕 [Associate] CloudWatch Architecture - PART2 (9:19)
+### [Associate] CloudWatch Architecture - PART2 (9:19)
 
-### 🆕 [Associate] CloudWatch Logs Architecture (7:16)
+### [Associate] CloudWatch Logs Architecture (7:16)
 
-### 🆕 [Associate] EventBridge // CloudWatch Events (6:54)
+### [Associate] EventBridge // CloudWatch Events (6:54)
 
 ### 🆕 AWS Config (6:14)
 
@@ -367,7 +367,7 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ### [Associate] [DEMO] Athena - Part 2 (11:37)
 
-### 🆕 AWS X-Ray (6:20)
+### AWS X-Ray (6:20)
 
 ### Section Quiz - Monitoring, Logging and Auditing
 
@@ -397,7 +397,7 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ### [Associate] [DEMO] Bootstrapping Wordpress Installation - PART2 (6:45)
 
-### 🆕 [Associate] EC2 Instance Roles & Profile (4:43)
+### [Associate] EC2 Instance Roles & Profile (4:43)
 
 ### [Associate] [DEMO] Using EC2 Instance Roles (13:31)
 
@@ -499,7 +499,9 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ### [Associate] R53 Interoperability (11:50)
 
-### 🆕 Implementing DNS-SEC using Route53 (17:43)
+### 🆕 Implementing DNSSEC using Route53 (17:43)
+
+![Alt text](<images/Screenshot from 2023-12-15 12-31-46.png>)
 
 ### [All] CloudFront - Architecture (14:56)
 
@@ -517,23 +519,23 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ### [All] [DEMO] CloudFront (CF) - Adding an Alternate CNAME and SSL (11:12)
 
-### 🆕 [All] CloudFront - Security - OAI & Custom Origins (8:50)
+### [All] CloudFront - Security - OAI & Custom Origins (8:50)
 
 ### [All] [DEMO] CloudFront (CF) - Using Origin Access Control (OAC) (new version of OAI) (11:21)
 
-### 🆕 [All] CloudFront - Security - Private Distributions (9:14)
+### [All] CloudFront - Security - Private Distributions (9:14)
 
-### 🆕 [All] CloudFront - Geo-Restriction (9:40)
+### [All] CloudFront - Geo-Restriction (9:40)
 
-### 🆕 [All] CloudFront - Field Level Encryption (9:00)
+### [All] CloudFront - Field Level Encryption (9:00)
 
 ### [All] CloudFront - Lambda@Edge (8:03)
 
-### 🆕 Application Layer (L7) Firewall (7:44)
+### Application Layer (L7) Firewall (7:44)
 
-### 🆕 Web Application Firewall (WAF), WEB_ACLs, Rule Groups and Rules (19:18)
+### Web Application Firewall (WAF), WEB_ACLs, Rule Groups and Rules (19:18)
 
-### 🆕 AWS Shield (9:47)
+### AWS Shield (9:47)
 
 ### Section Quiz - Discovery and CDN
 
