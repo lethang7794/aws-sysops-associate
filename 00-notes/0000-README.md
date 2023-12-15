@@ -573,13 +573,13 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ### [DEMO] Migrating to Aurora Serverless [DON'T DO THIS DEMO, IT WON'T WORK, UPDATING to SERVERLESS v2] (14:47)
 
-### 🆕 [Associate] Aurora Global Database (5:08)
+### [Associate] Aurora Global Database (5:08)
 
-### 🆕 [Associate] Multi-master writes (7:51)
+### [Associate] Multi-master writes (7:51)
 
-### 🆕 [Associate] Relational Database Service (RDS) - RDS Proxy (9:47)
+### [Associate] Relational Database Service (RDS) - RDS Proxy (9:47)
 
-### 🆕 [Associate] Database Migration Service (DMS) (11:03)
+### [Associate] Database Migration Service (DMS) (11:03)
 
 ### 🆕 [202207_UPDATE] [Advanced_DEMO] Database Migration Service - STAGE1 (6:08)
 
@@ -611,7 +611,7 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ### FSx for Lustre (13:57)
 
-### 🆕 [Associate] AWS Transfer Family (10:24)
+### [Associate] AWS Transfer Family (10:24)
 
 ### Section Quiz - Advanced Storage
 
@@ -631,7 +631,7 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ### [Associate] Auto-Scaling Groups (16:01)
 
-### 🆕 [Associate] ASG Scaling Policies (10:23)
+### [Associate] ASG Scaling Policies (10:23)
 
 ### [Associate] ASG Lifecycle Hooks (4:41)
 
@@ -657,35 +657,35 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ## Advanced Networking
 
-### 🆕 [Associate] Egress-Only Internet gateway (6:46)
+### [Associate] Egress-Only Internet Gateway (6:46)
 
-### 🆕 [Associate] VPC Endpoints (Gateway) (11:14)
+### [Associate] VPC Endpoints (Gateway) (11:14)
 
-### 🆕 [Associate] VPC Endpoints (Interface) (11:26)
+### [Associate] VPC Endpoints (Interface) (11:26)
 
-### 🆕 [All] [DEMO] VPC Endpoints - Interface - PART1 (11:59)
+### [All] [DEMO] VPC Endpoints - Interface - PART1 (11:59)
 
-### 🆕 [All] [DEMO] VPC Endpoints - Gateway - PART2 (9:59)
+### [All] [DEMO] VPC Endpoints - Gateway - PART2 (9:59)
 
-### 🆕 [All] [DEMO] Egress-Only Internet Gateway - PART3 (7:57)
+### [All] [DEMO] Egress-Only Internet Gateway - PART3 (7:57)
 
-### 🆕 [Associate] VPC Peering (9:04)
+### [Associate] VPC Peering (9:04)
 
-### 🆕 [All] [DEMO] VPC Peering (22:38)
+### [All] [DEMO] VPC Peering (22:38)
 
-### 🆕 Border Gateway Protocol 101 (17:29)
+### Border Gateway Protocol 101 (17:29)
 
-### 🆕 IP Sec VPN Fundamentals (14:54)
+### IPSec VPN Fundamentals (14:54)
 
-### 🆕 AWS Site-to-Site VPN (18:05)
+### AWS Site-to-Site VPN (18:05)
 
-### 🆕 AWS Global Accelerator (10:29)
+### AWS Global Accelerator (10:29)
 
-### 🆕 AWS Direct Connect (DX) - Concepts (9:37)
+### AWS Direct Connect (DX) - Concepts (9:37)
 
-### 🆕 AWS Direct Connect (DX) - Resilience (13:50)
+### AWS Direct Connect (DX) - Resilience (13:50)
 
-### 🆕 Transit Gateway (10:26)
+### Transit Gateway (10:26)
 
 ### 🆕 Advanced VPC Routing - PART1 (11:00)
 
@@ -803,29 +803,29 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ### Section Quiz - NoSQL
 
-## 🆕 Elastic Beanstalk In-Depth (ops)
+## Elastic Beanstalk In-Depth (ops)
 
-### 🆕 [Associate] Elastic Beanstalk (EB) - Architecture (18:12)
+### [Associate] Elastic Beanstalk (EB) - Architecture (18:12)
 
-### 🆕 [Associate] [DEMO] Elastic Beanstalk (EB) - Application & Environment - PART1 (11:50)
+### [Associate] [DEMO] Elastic Beanstalk (EB) - Application & Environment - PART1 (11:50)
 
-### 🆕 [Associate] [DEMO] Elastic Beanstalk (EB) - Add additional environment and config options - PART2 (10:53)
+### [Associate] [DEMO] Elastic Beanstalk (EB) - Add additional environment and config options - PART2 (10:53)
 
-### 🆕 [Associate] Elastic Beanstalk (EB) - Deployment Policies (11:40)
+### [Associate] Elastic Beanstalk (EB) - Deployment Policies (11:40)
 
-### 🆕 [Associate] [DEMO] Elastic Beanstalk (EB) - Deployment (8:30)
+### [Associate] [DEMO] Elastic Beanstalk (EB) - Deployment (8:30)
 
-### 🆕 [Associate] Elastic Beanstalk (EB) - Environments and RDS (4:34)
+### [Associate] Elastic Beanstalk (EB) - Environments and RDS (4:34)
 
-### 🆕 [Associate] Elastic Beanstalk (EB) - Advanced Customization via .ebextensions (4:52)
+### [Associate] Elastic Beanstalk (EB) - Advanced Customization via .ebextensions (4:52)
 
-### 🆕 [Associate] Elastic Beanstalk (EB) - HTTPS (1:51)
+### [Associate] Elastic Beanstalk (EB) - HTTPS (1:51)
 
-### 🆕 [Associate] Elastic Beanstalk (EB) - Cloning (4:44)
+### [Associate] Elastic Beanstalk (EB) - Cloning (4:44)
 
-### 🆕 [Associate] Elastic Beanstalk (EB) - Docker (9:11)
+### [Associate] Elastic Beanstalk (EB) - Docker (9:11)
 
-### 🆕 [Associate] [DEMO] Elastic Beanstalk (EB) - Section Cleanup (1:40)
+### [Associate] [DEMO] Elastic Beanstalk (EB) - Section Cleanup (1:40)
 
 ### Section Quiz - Elastic Beanstalk
 
