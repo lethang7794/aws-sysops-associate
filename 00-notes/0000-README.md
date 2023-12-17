@@ -689,9 +689,60 @@ SAML2.0 Identity Federation - Human (Web Console)
 
 ### 🆕 Advanced VPC Routing - PART1 (11:00)
 
+![Alt text](<images/Screenshot from 2023-12-16 15-44-39.png>)
+VPC Routing: Route Table & Subnet, Traffic Routing
+
+![Alt text](<images/Screenshot from 2023-12-16 15-45-24.png>)
+VPC Main RT - implicitly applied to all subnets
+
+![Alt text](<images/Screenshot from 2023-12-16 15-45-43.png>)
+Subnet's (explicitly) custom Route Table
+
+![Alt text](<images/Screenshot from 2023-12-16 15-49-55.png>)
+Routing priority
+
+![Alt text](<images/Screenshot from 2023-12-16 15-51-35.png>)
+Routing example
+
+![Alt text](<images/Screenshot from 2023-12-16 15-52-04.png>)
+Routing of Public, Private subnet
+
+![Alt text](<images/Screenshot from 2023-12-16 15-52-34.png>)
+Routing of a more specific route
+
 ### 🆕 Advanced VPC Routing - PART2 (11:51)
 
+![Alt text](<images/Screenshot from 2023-12-16 16-10-48.png>)
+CIDR Overlap
+
+![Alt text](<images/Screenshot from 2023-12-16 16-12-47.png>)
+CIDR Overlap - Share 1 Route Table
+
+![Alt text](<images/Screenshot from 2023-12-16 16-14-31.png>)
+CIDR Overlap - Using 2 Route Tables
+
+![Alt text](<images/Screenshot from 2023-12-16 16-16-02.png>)
+CIDR Overlap - Using more specific route
+
+![Alt text](<images/Screenshot from 2023-12-16 16-36-29.png>)
+Gateway Route Table - Ingress routing
+
 ### 🆕 Accelerated Site-2-Site VPN (9:53)
+
+![Alt text](<images/Screenshot from 2023-12-16 17-15-30.png>)
+Site-2-Site VPN
+
+![Alt text](<images/Screenshot from 2023-12-16 17-17-07.png>)
+Site-2-Site VPN: (VPC) - VGW - CGW
+
+![Alt text](<images/Screenshot from 2023-12-16 17-17-55.png>)
+Site-2-Site VPN: VPCs - TGW - CGW
+
+![Alt text](<images/Screenshot from 2023-12-16 17-38-55.png>)
+Site-2-Site VPN: VPCs - TGW - **Global Accelerator - CGW**
+
+![Alt text](<images/Screenshot from 2023-12-16 17-41-39.png>)
+Site-2-Site VPN: **VPCs - TGW** - Global Accelerator - CGW
 
 ### 🆕 [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE1 (10:03)
 
@@ -708,6 +759,27 @@ SAML2.0 Identity Federation - Human (Web Console)
 ### 🆕 [Advanced_DEMO] Advanced Site-to-Site VPN - STAGE5 (3:20)
 
 ### 🆕 Advanced VPC DNS & DNS Endpoints (15:01)
+
+![Alt text](<images/Screenshot from 2023-12-17 13-52-20.png>)
+VPC DNS (Route53 Resolver)
+
+![Alt text](<images/Screenshot from 2023-12-17 13-54-25.png>)
+Isolated DNS Environments: AWS resources cannot access on-premise resolvers
+
+![Alt text](<images/Screenshot from 2023-12-17 13-57-52.png>)
+Before R53 Endpoints: DNS Forwarder
+
+![Alt text](<images/Screenshot from 2023-12-17 13-59-56.png>)
+R53 Endpoints
+
+![Alt text](<images/Screenshot from 2023-12-17 14-07-59.png>)
+R53 Endpoints Example: DX
+
+![Alt text](<images/Screenshot from 2023-12-17 14-08-39.png>)
+R53 Endpoints Example: On-Premise DNS forward queries to R53 Inbound endpoint
+
+![Alt text](<images/Screenshot from 2023-12-17 14-09-34.png>)
+R53 Endpoints Example: R53 Outbound endpoint forward queries based on defined rules (to on-premise)
 
 ### 🆕 [MINI_PROJECT] Hybrid R53 and On-premises DNS - PART1 (8:27)
 
