@@ -795,11 +795,31 @@ R53 Endpoints Example: R53 Outbound endpoint forward queries based on defined ru
 
 ### 🆕 SSM Architecture and Agent Activation (7:25)
 
+![Alt text](<images/Screenshot from 2023-12-17 16-34-50.png>)
+AWS Systems Manager
+
+![Alt text](<images/Screenshot from 2023-12-17 16-38-45.png>)
+AWS Systems Manager - Agent
+
 ### 🆕 SSM Run Command (4:47)
+
+![Alt text](<images/Screenshot from 2023-12-17 16-47-09.png>)
+
+![Alt text](<images/Screenshot from 2023-12-17 16-49-02.png>)
 
 ### 🆕 SSM Documents (7:31)
 
-### 🆕 SSM Inventory & SSM Patching (11:57)
+![Alt text](<images/Screenshot from 2023-12-17 17-04-12.png>)
+
+### 🆕 SSM Inventory & SSM Patching (Patch Manager) (11:57)
+
+![Alt text](<images/Screenshot from 2023-12-17 17-15-02.png>)
+
+![Alt text](<images/Screenshot from 2023-12-17 17-18-09.png>)
+
+![Alt text](<images/Screenshot from 2023-12-17 17-20-38.png>)
+
+![Alt text](<images/Screenshot from 2023-12-17 17-21-39.png>)
 
 ### 🆕 [DEMO] Systems Manager (23:52)
 
