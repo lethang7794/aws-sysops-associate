@@ -4,36 +4,46 @@ YOUR TIME: 01:13:29
 
 You have reached 24 of 30 point(s) (80%)
 
-| No  |     | Q                                                                                                                    | A   | Ref |
-| --- | --- | -------------------------------------------------------------------------------------------------------------------- | --- | --- |
-|     |     |                                                                                                                      |     |     |
-| 1   | ❌  | VPC: Migrate to IPv6. How?                                                                                           |     |     |
-| 2   | ✅  |                                                                                                                      |     |     |
-| 3   | ✅  |                                                                                                                      |     |     |
-| 4   | ❌  | Tag resources, some tags don't follow company convention. How to identify the resources with non-compliant tags?     |     |     |
-| 5   | ✅  |                                                                                                                      |     |     |
-| 6   | ✅  |                                                                                                                      |     |     |
-| 7   | ✅  |                                                                                                                      |     |     |
-| 8   | ✅  |                                                                                                                      |     |     |
-| 9   | ✅  |                                                                                                                      |     |     |
-| 10  | ❌  | 200.000 IOPS in 4KB random I/O read. Which service/resource?                                                         |     |     |
-| 11  | ✅  |                                                                                                                      |     |     |
-| 12  | ✅  |                                                                                                                      |     |     |
-| 13  | ✅  |                                                                                                                      |     |     |
-| 14  | ✅  |                                                                                                                      |     |     |
-| 15  | ✅  |                                                                                                                      |     |     |
-| 16  | ✅  |                                                                                                                      |     |     |
-| 17  | ✅  |                                                                                                                      |     |     |
-| 18  | ✅  |                                                                                                                      |     |     |
-| 19  | ✅  |                                                                                                                      |     |     |
-| 20  | ✅  |                                                                                                                      |     |     |
-| 21  | ✅  |                                                                                                                      |     |     |
-| 22  | ✅  |                                                                                                                      |     |     |
-| 23  | ✅  |                                                                                                                      |     |     |
-| 24  | ❌  | EC2 Image Builder + AWS Systems Manager Automation. Orchestrate complex workflow & modify system config across apps? |     |     |
-| 25  | ❌  | EC2: Slow to boot. Fix?                                                                                              |     |     |
-| 26  | ✅  |                                                                                                                      |     |     |
-| 27  | ❌  | Thread detection system -> monitor malicious activity, anomalous behavior? Which service?                            |     |     |
-| 28  | ✅  |                                                                                                                      |     |     |
-| 29  | ✅  |                                                                                                                      |     |     |
-| 30  | ✅  |                                                                                                                      |     |     |
+| No  |     | Q                                                                                                                | A                                                                                                                    | Ref                                                         |
+| --- | --- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+|     |     |                                                                                                                  |                                                                                                                      |                                                             |
+| 1   | ❌  | VPC: Migrate to IPv6. How?                                                                                       | 1. Assign IPv6 CIDR block; 2. Route Table; 3. Security Group; 4. Assign IPv6 address to instance                     | [3.1](#31-vpc-ipv6-migration)                               |
+| 2   | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 3   | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 4   | ❌  | Tag resources, some tags don't follow company convention. How to identify the resources with non-compliant tags? | Use AWS Config _managed_ rule `required_tags`                                                                        | [3.4.1. required_tags - AWS Config] [3.4.2. Tag Strategies] |
+| 5   | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 6   | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 7   | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 8   | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 9   | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 10  | ❌  | 200.000 IOPS in 4KB random I/O read. Which service/resource?                                                     | Use Storage Optimized **Instance** + **EBS** Provisioned IOPS SSD io1/io2                                            |                                                             |
+| 11  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 12  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 13  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 14  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 15  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 16  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 17  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 18  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 19  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 20  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 21  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 22  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 23  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 24  | ❌  | EC2 Image Builder: Orchestrate complex workflow & modify system config across apps?                              | Use AWS Task Orchestrator and Executor (AWSTOE) application                                                          |                                                             |
+| 25  | ❌  | EC2: Slow to boot. Fix?                                                                                          | 1. Baked golden AMI; 2. Use ASG + **Warm Pool** (a pool of pre-initialized EC2 instances that sits alongside an ASG) |                                                             |
+| 26  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 27  | ❌  | Thread detection system -> monitor malicious activity, anomalous behavior? Which service?                        | Amazon GuardDuty                                                                                                     |                                                             |
+| 28  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 29  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+| 30  | ✅  |                                                                                                                  |                                                                                                                      |                                                             |
+
+[3.4.1. required_tags - AWS Config]: https://docs.aws.amazon.com/config/latest/developerguide/required-tags.html
+[3.4.2. Tag Strategies]: https://docs.aws.amazon.com/tag-editor/latest/userguide/tagging.html#tag-strategies
+
+## 3.1 VPC IPv6 migration
+
+Step 1: Associate an IPv6 CIDR block with your VPC & subnets
+Step 2: Update your route tables (to route your IPv6 traffic)
+Step 3: Update your security group rules (to include rules for IPv6 addresses)
+Step 4: Assign IPv6 addresses to your instances (from the IPv6 address range of your subnet)
