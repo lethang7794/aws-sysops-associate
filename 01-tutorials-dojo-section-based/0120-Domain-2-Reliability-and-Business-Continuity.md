@@ -1,35 +1,43 @@
 # Tutorial Dojo - SOA-C02 - Domain 2: Reliability and Business Continuity
 
-| No  |     | Q   | A   | Ref |
-| --- | --- | --- | --- | --- |
-|     |     |     |     |     |
-| 1   |     |     |     |     |
-| 2   |     |     |     |     |
-| 3   |     |     |     |     |
-| 4   |     |     |     |     |
-| 5   |     |     |     |     |
-| 6   |     |     |     |     |
-| 7   |     |     |     |     |
-| 8   |     |     |     |     |
-| 9   |     |     |     |     |
-| 10  |     |     |     |     |
-| 11  |     |     |     |     |
-| 12  |     |     |     |     |
-| 13  |     |     |     |     |
-| 14  |     |     |     |     |
-| 15  |     |     |     |     |
-| 16  |     |     |     |     |
-| 17  |     |     |     |     |
-| 18  |     |     |     |     |
-| 19  |     |     |     |     |
-| 20  |     |     |     |     |
-| 21  |     |     |     |     |
-| 22  |     |     |     |     |
-| 23  |     |     |     |     |
-| 24  |     |     |     |     |
-| 25  |     |     |     |     |
-| 26  |     |     |     |     |
-| 27  |     |     |     |     |
-| 28  |     |     |     |     |
-| 29  |     |     |     |     |
-| 30  |     |     |     |     |
+YOUR TIME: 00:45:02
+You have reached 18 of 25 point(s), (72%)
+
+| No  |     | Q                                                                                                  | A                                                                                                                                                  | Ref                           |
+| --- | --- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+|     |     |                                                                                                    |                                                                                                                                                    |                               |
+| 1   | ✅  | ASG + EC2 + SQS. Increase message, EC2 instances take too long to process messages? Fix?           | ASG scale based on SQS queue length (number of messages)                                                                                           |                               |
+| 2   | ✅  | S#: Generate report on replication, encryption status, type of SSE. Least effort?                  | 1. Use `S3 Inventory`. 2. ~~Create a custom script that call bucket GET, LIST to generate the report~~                                             |                               |
+| 3   | ❌  | ELB: WebSockets, host-based and path-based routing. Which LB?                                      | 1. ALB: HTTP/s, gRPC, WebSocket (Request-level, OSI Level 7); 2. ~~NLB: TCP, UDP, TLS (Connection-level ~ OSI Level 4)~~; 3. ~~GWLB: IP (Geneve)~~ |                               |
+| 4   | ✅  | EC2 + EBS. Create daily AMI + ensure file system integrity?                                        | 1a. Use a Lambda function to call `CreateImage` API with `reboot` param; 1b. Create a EventBridge rule to run the Lambda function every day;       | [How about AWS Backup?](#2.4) |
+| 5   | ✅  | WebSocket, ASG + On-demand EC2, ALB. Log IP address, latency, request path, server response.       | ALB Access Logs (store on S3 bucket)                                                                                                               |                               |
+| 6   | ❌  | Route traffic to 2 regions (80% & 20%). Reroute traffic to other region if one region fail.        | 1. ~~Route 53 Failover~~; 2. Route 53: Weighted routing + Health-check                                                                             |                               |
+| 7   | ❌  | S3: 503. Why?                                                                                      | 503 Service Unavailable -> An object has millions of version -> S3 throttle requests to bucket                                                     | [2.7]                         |
+| 8   | ❌  | RDS: Create snapshot without performance impact & lost data?                                       | Use RDS Multi-AZ Instance + Create snapshot on Standby replica                                                                                     |                               |
+| 9   | ✅  | AWS Auto Scaling support AWS services?                                                             | 1. EC2 Auto Scaling; 2. Application Auto Scaling: Aurora, DynamoDB, ECS (Fargate), Lambda, Spot Fleet.                                             |                               |
+| 10  | ✅  | Cfn: Copy objects from a bucket to a new one. How?                                                 | Use Cfn Custom Resource (associated with a Lambda function that copy the objects to the new bucket)                                                |                               |
+| 11  | ❌  | EC2: 1AZ. Increase availability & scalability?                                                     | ELB + ASG (EC2)                                                                                                                                    |                               |
+| 12  | ✅  | 2-tier application (database + web app), migrate to AWS (scalability)                              | ELB + ASG (EC2) + RDS (with replica)                                                                                                               |                               |
+| 13  | ✅  | Users upload images to S3 from a region to another region. Improve performance?                    | Use S3 Transfer Acceleration                                                                                                                       |                               |
+| 14  | ❌  | EC2 + ALB + RDS (1 private subnet) + NATGW. Increase scalability & availability?                   | ASG + RDS MultiAZ Cluster + (NATGW > ~~NAT instance~~)                                                                                             |                               |
+| 15  | ✅  | Load balancing: TCP, millions of requests. Which type of ELB?                                      | Network Load Balancer                                                                                                                              |                               |
+| 16  | ✅  | Web app, static web pages slow down the main functional of the app. Alleviate + cost effective?    | Use `S3 static website hosting` to host the static web pages.                                                                                      |                               |
+| 17  | ✅  | Backup on-premise data to AWS, keep frequently access data on-premise. Which service?              | Use `AWS Storage Gateway` - `Volume Gateway` - Cached volume                                                                                       | [2.17]                        |
+| 18  | ✅  | EC2: Auto delete EBS snapshots (only keep a fixed number of snapshots)                             | Use [Amazon Data Lifecycle Manager (DLM)]: automate the creation, retention, and deletion of EBS snapshots and EBS-backed AMIs.                    |                               |
+| 19  | ✅  | EC2 + RDS: HA 24/7                                                                                 | 1. ELB + ASG (EC2); 2. RDS Multi-AZ Cluster                                                                                                        |                               |
+| 20  | ✅  | ASG + EC2: CPU ramp up to 50% at 8 p.m. & peaks at 70% at 11:30 p.m. Optimize?                     | Use ASG Scheduled Scaling Policy                                                                                                                   |                               |
+| 21  | ✅  | CloudFront: Accident expose fake photo. How to remove immediately?                                 | 1. Use cache invalidation; 2. Use object versioning by file name                                                                                   |                               |
+| 22  | ✅  | ASG + EC2 (2AZs) + ALB + a single Aurora table. Improve availability?                              | Create Aurora Read Replica                                                                                                                         |                               |
+| 23  | ❌  | EC2 + ELB: 1. Route traffic based on path; 2. Withstand CPU burst for a long time. Cost effective? | 1. ALB; 2. EC2: General-purpose (t2, t3) + Unlimited mode                                                                                          |                               |
+| 24  | ✅  | RDS: Disable backup, cannot reduce retention period to 0. Why?                                     | Maybe there is read replica (which require backup for replica log)                                                                                 |                               |
+| 25  | ✅  | Cfn: ASG + EC2 (with user-data). Wait-condition not found its signal?                              | Execute `cfn-signal` in user-data                                                                                                                  |                               |
+
+[2.7]: https://docs.aws.amazon.com/AmazonS3/latest/userguide/troubleshooting-versioning.html
+[2.17]: https://docs.aws.amazon.com/storagegateway/latest/vgw/WhatIsStorageGateway.html#volume-gateway
+[Amazon Data Lifecycle Manager (DLM)]: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/snapshot-lifecycle.html
+
+## 2.4 AWS Backups
+
+AWS Backup default mechanism for backing up EBS volumes is to backup with no-reboot behavior.
+
+This means that AWS Backup will not be able to help you create an AMI that guarantees file system integrity since you need to reboot the instance to do this.
