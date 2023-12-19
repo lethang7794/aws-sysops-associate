@@ -1,4 +1,4 @@
-# Tutorial Dojo - SOA-C02 - Domain 5: Networking and Content Delivery
+# Tutorial Dojo - SOA-C02 - Domain 4: Security and Compliance
 
 | No  |     | Q   | A   | Ref |
 | --- | --- | --- | --- | --- |

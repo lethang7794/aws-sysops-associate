@@ -1,4 +1,4 @@
-# Tutorial Dojo - SOA-C02 - Domain 1: Monitoring, Logging, and Remediation
+# Tutorial Dojo - SOA-C02 - Domain 5: Networking and Content Delivery
 
 | No  |     | Q   | A   | Ref |
 | --- | --- | --- | --- | --- |
