@@ -8,4 +8,4 @@
 | Domain 4: Security and Compliance                  | 17/27       | 63%     | 01:13:06 | December 20, 2023 |
 |                                                    | 30/30 (2nd) | 100%    | 01:13:06 | December 20, 2023 |
 | Domain 5: Networking and Content Delivery          | 27/30       | 90%     | 00:32:29 | December 21, 2023 |
-| Domain 6: Cost and Performance Optimization        |             |         |          |                   |
+| Domain 6: Cost and Performance Optimization        | 19/29       | 65%     | 00:39:33 | December 22, 2023 |
