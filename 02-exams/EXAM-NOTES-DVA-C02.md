@@ -50,3 +50,13 @@
 [Aurora Cross-Region Read Replicas]: https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.CrossRegion.html
 [Aurora Global Database]: https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-global-database.html
 [DynamoDB Global Table]: https://aws.amazon.com/dynamodb/global-tables/
+
+### Encryption at rest
+
+- EBS:
+  - By default, an EBS volume is not encrypted when created
+    - while creating an EC2 instance.
+    - standalone.
+  - EBS encryption can be enable at region-level (by using EBS `encryption by default`)[^ebs-1]
+
+[^ebs-1]: <https://aws.amazon.com/blogs/aws/new-opt-in-to-default-encryption-for-new-ebs-volumes/>
