@@ -4,7 +4,7 @@
 | --- | ---------------------------------------- | ----- | ------------- | ----- | --------- | -------------------------- |
 | 1   | Tutorials Dojo - Time Mode Set 1 [1]     | 56/65 | 86%           | ✅    | 1h        | Dec 25, 2023 21:20 - 22:20 |
 | 2   | Tutorials Dojo - Time Mode Set 2         | 51/65 | 78.5%         | ✅    | 1h        | Dec 26, 2023 20:20 - 21:20 |
-| 3   | Tutorials Dojo - Time Mode Set 3         | xx/65 | %             |       |           | Dec 26, 2023               |
+| 3   | Tutorials Dojo - Time Mode Set 3         | 59/65 | 90.7%         | ✅    | 1h        | Dec 27, 2023 15:30 - 16:30 |
 | 4   | Tutorials Dojo - Time Mode Set 4         | xx/65 | %             |       |           | Dec 28, 2023               |
 | 5   | Tutorials Dojo - Time Mode Set 5         | xx/65 | %             |       |           | Dec 29, 2023               |
 | 6   | Tutorials Dojo - Time Mode Set 6 (Bonus) | xx/65 | %             |       |           | Dec 30, 2023               |
