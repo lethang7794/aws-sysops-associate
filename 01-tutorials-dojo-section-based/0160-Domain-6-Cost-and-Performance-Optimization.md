@@ -62,19 +62,20 @@ TODO: Research services supports online vertical scaling
 
 - Manually managed resources
 
-  - AWS Resource Group : Tag Editor console / Tagging API allows
+  - AWS `Resource Group` : `Tag Editor` console / `Tagging API` allows
   - EC2 launch template : Tags
-  - AWS Config Rules: check for required_tags & start a Lambda function to apply them
+  - AWS `Config Rules`: check for required_tags & start a Lambda function to apply them
 
 - Infrastructure as code (IaC) managed resources
 
-  - CloudFormation : Template : Resource Tags
-    - AWS CloudFormation Hooks
-  - AWS Service Catalog
+  - CloudFormation : Template : `Resource Tags`
+    - AWS `CloudFormation Hooks`
+  - AWS `Service Catalog`
+    - `TagOption` Library
 
 - CI/CD pipeline managed resources
   - CloudFormation
-    - AWS CloudFormation Guard
+    - AWS `CloudFormation Guard`
 
 [^6.1.1]: <https://docs.aws.amazon.com/compute-optimizer/latest/ug/what-is-compute-optimizer.html>
 [^6.1.2]: <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-recommendations.html>
