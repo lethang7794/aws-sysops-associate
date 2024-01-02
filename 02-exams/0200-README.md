@@ -14,7 +14,7 @@
 |     |                                                     |       |               |       |           |                            |
 | 8   | Tutorials Dojo - Review Mode Set 1                  | 61/65 | 86%           | ✅    | 30m       | Jan 02, 2024 14:00 - 14:30 |
 | 9   | Tutorials Dojo - Review Mode Set 2                  | 64/65 | 98.5%         | ✅    | 30m       | Jan 02, 2024 16:00 - 16:30 |
-| 10  | Tutorials Dojo - Review Mode Set 3                  | xx/65 | xx%           |       |           | Jan 02, 2024 xx:xx - xx:xx |
+| 10  | Tutorials Dojo - Review Mode Set 3                  | 64/65 | 98.5%         | ✅    | 50m       | Jan 02, 2024 19:00 - 19:50 |
 | 11  | Tutorials Dojo - Review Mode Set 4                  | xx/65 | xx%           |       |           | Jan 03, 2024 xx:xx - xx:xx |
 | 12  | Tutorials Dojo - Review Mode Set 5                  | xx/65 | xx%           |       |           | Jan 03, 2024 xx:xx - xx:xx |
 | 13  | Tutorials Dojo - Review Mode Set 6 (Bonus)          | xx/36 | xx%           |       |           | Jan 03, 2024 xx:xx - xx:xx |

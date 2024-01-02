@@ -64,7 +64,7 @@ TODO: Research services supports online vertical scaling
 
   - AWS `Resource Group` : `Tag Editor` console / `Tagging API` allows
   - EC2 launch template : Tags
-  - AWS `Config Rules`: check for required_tags & start a Lambda function to apply them
+  - AWS `Config Rules`: check for `required_tags` & start a Lambda function to apply them
 
 - Infrastructure as code (IaC) managed resources
 
