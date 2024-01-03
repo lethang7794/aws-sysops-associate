@@ -17,7 +17,7 @@
 | 10  | Tutorials Dojo - Review Mode Set 3                  | 64/65 | 98.5%         | ✅    | 50m       | Jan 02, 2024 19:00 - 19:50 |
 | 11  | Tutorials Dojo - Review Mode Set 4                  | 61/65 | 93.85%        | ✅    | 25m       | Jan 03, 2024 00:00 - 00:25 |
 | 12  | Tutorials Dojo - Review Mode Set 5                  | 61/65 | 93.85%        | ✅    | 35m       | Jan 03, 2024 09:30 - 10:05 |
-| 13  | Tutorials Dojo - Review Mode Set 6 (Bonus)          | xx/36 | xx%           |       |           | Jan 03, 2024 xx:xx - xx:xx |
+| 13  | Tutorials Dojo - Review Mode Set 6 (Bonus)          | 35/36 | 97%           | ✅    | 40m       | Jan 03, 2024 11:30 - 12:10 |
 |     |                                                     |       |               |       |           |                            |
 | 14  | REAL AWS EXAM                                       | xx/65 |               |       |           | Jan 04, 2024               |
 
