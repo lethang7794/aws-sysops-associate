@@ -2,7 +2,7 @@
 
 | No  | Exam                                                | Score | Score Percent | Final | Exam Time | Test Date                  |
 | --- | --------------------------------------------------- | ----- | ------------- | ----- | --------- | -------------------------- |
-| 1   | Tutorials Dojo - Time Mode Set 1 [1]                | 56/65 | 86%           | ✅    | 1h        | Dec 25, 2023 21:20 - 22:20 |
+| 1   | Tutorials Dojo - Time Mode Set 1 [^1]               | 56/65 | 86%           | ✅    | 1h        | Dec 25, 2023 21:20 - 22:20 |
 | 2   | Tutorials Dojo - Time Mode Set 2                    | 51/65 | 78%           | ✅    | 1h        | Dec 26, 2023 20:20 - 21:20 |
 | 3   | Tutorials Dojo - Time Mode Set 3                    | 59/65 | 90%           | ✅    | 1h        | Dec 27, 2023 15:30 - 16:30 |
 | 4   | Tutorials Dojo - Time Mode Set 4                    | 62/65 | 95%           | ✅    | 50m       | Dec 27, 2023 22:00 - 22:50 |
@@ -16,11 +16,11 @@
 | 9   | Tutorials Dojo - Review Mode Set 2                  | 64/65 | 98.5%         | ✅    | 30m       | Jan 02, 2024 16:00 - 16:30 |
 | 10  | Tutorials Dojo - Review Mode Set 3                  | 64/65 | 98.5%         | ✅    | 50m       | Jan 02, 2024 19:00 - 19:50 |
 | 11  | Tutorials Dojo - Review Mode Set 4                  | 61/65 | 93.85%        | ✅    | 25m       | Jan 03, 2024 00:00 - 00:25 |
-| 12  | Tutorials Dojo - Review Mode Set 5                  | xx/65 | xx%           |       |           | Jan 03, 2024 xx:xx - xx:xx |
+| 12  | Tutorials Dojo - Review Mode Set 5                  | 61/65 | 93.85%        | ✅    | 35m       | Jan 03, 2024 09:30 - 10:05 |
 | 13  | Tutorials Dojo - Review Mode Set 6 (Bonus)          | xx/36 | xx%           |       |           | Jan 03, 2024 xx:xx - xx:xx |
 |     |                                                     |       |               |       |           |                            |
 | 14  | REAL AWS EXAM                                       | xx/65 |               |       |           | Jan 04, 2024               |
 
 <!-- [Catrill SOA-C02 Practice Exam]: https://learn.cantrill.io/courses/1032362/lectures/26901074 -->
 
-[1]: https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-associate-practice-exams/
+[^1]: <https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-associate-practice-exams/>
