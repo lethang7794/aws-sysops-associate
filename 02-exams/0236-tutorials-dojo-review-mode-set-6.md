@@ -35,21 +35,21 @@ Score: 35/36 (97%):
 
 ## Domain 3: Deployment, Provisioning, and Automation
 
-| No  |      | Q                           | A                                                                                | Ref      |
-| --- | ---- | --------------------------- | -------------------------------------------------------------------------------- | -------- |
-|     |      |                             |                                                                                  |          |
-| 1   | ✅   |                             |                                                                                  |          |
-| 2   | ❌ | Cfn: StackSets: `OUTDATED`? | A stack operation failed, and the stack instance status is `OUTDATED` ~ "failed" | [^3.2.1] |
-| 3   | ✅   |                             |                                                                                  |          |
-| 4   | ✅   |                             |                                                                                  |          |
-| 5   | ✅   |                             |                                                                                  |          |
-| 6   | ✅   |                             |                                                                                  |          |
-| 7   | ✅   |                             |                                                                                  |          |
-| 8   | ✅   |                             |                                                                                  |          |
-| 9   | ✅   |                             |                                                                                  |          |
-| 10  | ✅   |                             |                                                                                  |          |
-| 11  | ✅   |                             |                                                                                  |          |
-| 12  | ✅   |                             |                                                                                  |          |
+| No  |     | Q                           | A                                                                                | Ref      |
+| --- | --- | --------------------------- | -------------------------------------------------------------------------------- | -------- |
+|     |     |                             |                                                                                  |          |
+| 1   | ✅  |                             |                                                                                  |          |
+| 2   | ❌  | Cfn: StackSets: `OUTDATED`? | A stack operation failed, and the stack instance status is `OUTDATED` ~ "failed" | [^3.2.1] |
+| 3   | ✅  |                             |                                                                                  |          |
+| 4   | ✅  |                             |                                                                                  |          |
+| 5   | ✅  |                             |                                                                                  |          |
+| 6   | ✅  |                             |                                                                                  |          |
+| 7   | ✅  |                             |                                                                                  |          |
+| 8   | ✅  |                             |                                                                                  |          |
+| 9   | ✅  |                             |                                                                                  |          |
+| 10  | ✅  |                             |                                                                                  |          |
+| 11  | ✅  |                             |                                                                                  |          |
+| 12  | ✅  |                             |                                                                                  |          |
 
 ## Domain 4: Security and Compliance
 

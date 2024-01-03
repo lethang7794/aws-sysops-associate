@@ -18,107 +18,107 @@ Score: 61/65 (93%):
 | No  |     | Q                                           | A                                                                                                                      | Ref               |
 | --- | --- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------- |
 |     |     |                                             |                                                                                                                        |                   |
-| 1   |     |                                             |                                                                                                                        |                   |
-| 2   |     |                                             |                                                                                                                        |                   |
-| 3   |     |                                             |                                                                                                                        |                   |
-| 4   |     |                                             |                                                                                                                        |                   |
+| 1   | ✅  |                                             |                                                                                                                        |                   |
+| 2   | ✅  |                                             |                                                                                                                        |                   |
+| 3   | ✅  |                                             |                                                                                                                        |                   |
+| 4   | ✅  |                                             |                                                                                                                        |                   |
 | 5   | ❌  | Notify when EC2 underlying hardware failure | 1. CW `metric alarm` for EC2 metric: ~~`StatusCheckFailed_Instance`~~, `StatusCheckFailed_System`, `StatusCheckFailed` | [^1.5.1] [^1.5.2] |
 |     |     |                                             | 2. SNS topic: subscribe emails                                                                                         | [^1.5.3]          |
 |     |     |                                             | 3. Config the alarm action to send message to SNS topic                                                                |                   |
-| 6   |     |                                             |                                                                                                                        |                   |
-| 7   |     |                                             |                                                                                                                        |                   |
-| 8   |     |                                             |                                                                                                                        |                   |
-| 9   |     |                                             |                                                                                                                        |                   |
-| 10  |     |                                             |                                                                                                                        |                   |
-| 11  |     |                                             |                                                                                                                        |                   |
-| 12  |     |                                             |                                                                                                                        |                   |
-| 13  |     |                                             |                                                                                                                        |                   |
-| 14  |     |                                             |                                                                                                                        |                   |
+| 6   | ✅  |                                             |                                                                                                                        |                   |
+| 7   | ✅  |                                             |                                                                                                                        |                   |
+| 8   | ✅  |                                             |                                                                                                                        |                   |
+| 9   | ✅  |                                             |                                                                                                                        |                   |
+| 10  | ✅  |                                             |                                                                                                                        |                   |
+| 11  | ✅  |                                             |                                                                                                                        |                   |
+| 12  | ✅  |                                             |                                                                                                                        |                   |
+| 13  | ✅  |                                             |                                                                                                                        |                   |
+| 14  | ✅  |                                             |                                                                                                                        |                   |
 
 ## Domain 2: Reliability and Business Continuity
 
 | No  |     | Q   | A   | Ref |
 | --- | --- | --- | --- | --- |
 |     |     |     |     |     |
-| 1   |     |     |     |     |
-| 2   |     |     |     |     |
-| 3   |     |     |     |     |
-| 4   |     |     |     |     |
-| 5   |     |     |     |     |
-| 6   |     |     |     |     |
-| 7   |     |     |     |     |
-| 8   |     |     |     |     |
-| 9   |     |     |     |     |
-| 10  |     |     |     |     |
+| 1   | ✅  |     |     |     |
+| 2   | ✅  |     |     |     |
+| 3   | ✅  |     |     |     |
+| 4   | ✅  |     |     |     |
+| 5   | ✅  |     |     |     |
+| 6   | ✅  |     |     |     |
+| 7   | ✅  |     |     |     |
+| 8   | ✅  |     |     |     |
+| 9   | ✅  |     |     |     |
+| 10  | ✅  |     |     |     |
 
 ## Domain 3: Deployment, Provisioning, and Automation
 
 | No  |     | Q                 | A                                                                            | Ref                              |
 | --- | --- | ----------------- | ---------------------------------------------------------------------------- | -------------------------------- |
 |     |     |                   |                                                                              |                                  |
-| 1   |     |                   |                                                                              |                                  |
-| 2   |     |                   |                                                                              |                                  |
-| 3   |     |                   |                                                                              |                                  |
-| 4   |     |                   |                                                                              |                                  |
-| 5   |     |                   |                                                                              |                                  |
-| 6   |     |                   |                                                                              |                                  |
+| 1   | ✅  |                   |                                                                              |                                  |
+| 2   | ✅  |                   |                                                                              |                                  |
+| 3   | ✅  |                   |                                                                              |                                  |
+| 4   | ✅  |                   |                                                                              |                                  |
+| 5   | ✅  |                   |                                                                              |                                  |
+| 6   | ✅  |                   |                                                                              |                                  |
 | 7   | ❌  | Tagging resources | 1. SGP tag polices: Standardize: -> organization-wide compliance report      | [^1.3.7.1] [^1.3.7.2]            |
 |     |     |                   | 2. AWS Config `required-tags` -> Identify non-compliant tags -> Remediation? | [^1.3.7.3] [^1.3.7.4] [^1.3.7.5] |
-| 8   |     |                   |                                                                              |                                  |
-| 9   |     |                   |                                                                              |                                  |
-| 10  |     |                   |                                                                              |                                  |
-| 11  |     |                   |                                                                              |                                  |
-| 12  |     |                   |                                                                              |                                  |
-| 13  |     |                   |                                                                              |                                  |
+| 8   | ✅  |                   |                                                                              |                                  |
+| 9   | ✅  |                   |                                                                              |                                  |
+| 10  | ✅  |                   |                                                                              |                                  |
+| 11  | ✅  |                   |                                                                              |                                  |
+| 12  | ✅  |                   |                                                                              |                                  |
+| 13  | ✅  |                   |                                                                              |                                  |
 
 ## Domain 4: Security and Compliance
 
 | No  |     | Q   | A   | Ref |
 | --- | --- | --- | --- | --- |
 |     |     |     |     |     |
-| 1   |     |     |     |     |
-| 2   |     |     |     |     |
-| 3   |     |     |     |     |
-| 4   |     |     |     |     |
-| 5   |     |     |     |     |
-| 6   |     |     |     |     |
-| 7   |     |     |     |     |
-| 8   |     |     |     |     |
-| 9   |     |     |     |     |
-| 10  |     |     |     |     |
-| 11  |     |     |     |     |
+| 1   | ✅  |     |     |     |
+| 2   | ✅  |     |     |     |
+| 3   | ✅  |     |     |     |
+| 4   | ✅  |     |     |     |
+| 5   | ✅  |     |     |     |
+| 6   | ✅  |     |     |     |
+| 7   | ✅  |     |     |     |
+| 8   | ✅  |     |     |     |
+| 9   | ✅  |     |     |     |
+| 10  | ✅  |     |     |     |
+| 11  | ✅  |     |     |     |
 
 ## Domain 5: Networking and Content Delivery
 
-| No  |     | Q                                            | A                                                                                                    | Ref               |
-| --- | --- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------- |
-|     |     |                                              |                                                                                                      |                   |
-| 1   |     |                                              |                                                                                                      |                   |
-| 2   |     |                                              |                                                                                                      |                   |
-| 3   | ❌  | CloudFront: Mismatch desktop/mobile version? | 1. Forward `User-Agent` to origin: CloudFront : Distribution : Origin Setting : Origin custom header | [^5.3.1] [^5.3.2] |
-|     |     |                                              | 2. Cache based on the `User-Agent` header (not recommend) (or `CloudFront-Is-XXX-Viewer`)            | [^5.3.3]          |
-| 4   |     |                                              |                                                                                                      |                   |
-| 5   |     |                                              |                                                                                                      |                   |
-| 6   |     |                                              |                                                                                                      |                   |
-| 7   |     |                                              |                                                                                                      |                   |
-| 8   | ❌  | EC2: Cannot connect to the instance?         | 1. SSH (22) or RDP (3389)                                                                            |                   |
-|     |     |                                              | 2. NACL inbound & outbound allow?                                                                    |                   |
-|     |     |                                              | 3. SG inbound allow?                                                                                 |                   |
-| 9   |     |                                              |                                                                                                      |                   |
-| 10  |     |                                              |                                                                                                      |                   |
-| 11  |     |                                              |                                                                                                      |                   |
-| 12  |     |                                              |                                                                                                      |                   |
+| No  |      | Q                                            | A                                                                                                    | Ref               |
+| --- | ---- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------- |
+|     |      |                                              |                                                                                                      |                   |
+| 1   | ✅   |                                              |                                                                                                      |                   |
+| 2   | ✅   |                                              |                                                                                                      |                   |
+| 3   | ❌   | CloudFront: Mismatch desktop/mobile version? | 1. Forward `User-Agent` to origin: CloudFront : Distribution : Origin Setting : Origin custom header | [^5.3.1] [^5.3.2] |
+|     |      |                                              | 2. Cache based on the `User-Agent` header (not recommend) (or `CloudFront-Is-XXX-Viewer`)            | [^5.3.3]          |
+| 4   | ✅   |                                              |                                                                                                      |                   |
+| 5   | ✅   |                                              |                                                                                                      |                   |
+| 6   | ✅   |                                              |                                                                                                      |                   |
+| 7   | ✅   |                                              |                                                                                                      |                   |
+| 8   | ❌❌ | EC2: Cannot connect to the instance?         | 1. SSH (22) or RDP (3389)                                                                            |                   |
+|     |      |                                              | 2. NACL inbound & outbound allow?                                                                    |                   |
+|     |      |                                              | 3. SG inbound allow?                                                                                 |                   |
+| 9   | ✅   |                                              |                                                                                                      |                   |
+| 10  | ✅   |                                              |                                                                                                      |                   |
+| 11  | ✅   |                                              |                                                                                                      |                   |
+| 12  | ✅   |                                              |                                                                                                      |                   |
 
 ## Domain 6: Cost and Performance Optimization
 
 | No  |     | Q   | A   | Ref |
 | --- | --- | --- | --- | --- |
 |     |     |     |     |     |
-| 1   |     |     |     |     |
-| 2   |     |     |     |     |
-| 3   |     |     |     |     |
-| 4   |     |     |     |     |
-| 5   |     |     |     |     |
+| 1   | ✅  |     |     |     |
+| 2   | ✅  |     |     |     |
+| 3   | ✅  |     |     |     |
+| 4   | ✅  |     |     |     |
+| 5   | ✅  |     |     |     |
 
 [^1.3.7.1]: <https://docs.aws.amazon.com/tag-editor/latest/userguide/tag-policies-orgs.html>
 [^1.3.7.2]: <https://docs.aws.amazon.com/tag-editor/latest/userguide/tag-policies-orgs-evaluating-org-wide-compliance.html>
